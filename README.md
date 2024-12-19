@@ -18,7 +18,6 @@ conda create --name monsterPlex bioconda::bowtie2 bioconda::tabix bioconda::samt
 
 Install via R:
 * R 3.2.1 or higher
-* R package: [argparse](https://cran.r-project.org/package=argparse)
 * R package: [ape](https://cran.r-project.org/web/packages/ape/index.html)
 * R package: [ggrepel](https://cran.r-project.org/web/packages/ggrepel/index.html)
 * R Bioconductor package: [ggtree](https://bioconductor.org/packages/release/bioc/html/ggtree.html)
